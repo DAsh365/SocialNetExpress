@@ -46,7 +46,7 @@ This repository contains a social network API built using Express.js and MongoDB
 
 ## Walkthrough Video
 
-[Link to Walkthrough Video](add_link_here)
+[Link to Walkthrough Video](https://drive.google.com/file/d/1x1BLkX5fLSJkMXVZUhkPrG4LjjoDX3cQ/view?usp=sharing)
 
 ## Bonus
 
